@@ -1,4 +1,5 @@
 pragma circom 2.0.0;
+
 include "circomlib/poseidon.circom";
 
 // Poseidon2 parameters: (n, t, d) = (256, 2, 5)
